@@ -210,7 +210,7 @@ endmodule
 ~~~
 **OUTPUT WAVEFORM**
 
-![image](https://github.com/kameshgopi/VLSI-LAB-EXP-1/assets/164839944/a643846c-50d6-49d7-8db5-f41a04b9796f)
+![image](https://github.com/kameshgopi/VLSI-LAB-EXP-1/assets/164839944/a1df2337-f627-49a3-89f2-279ab578b868)
 
 
 **Result**
